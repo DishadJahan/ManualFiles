@@ -1,0 +1,32 @@
+[
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "dim_airlines",
+  "publish_table_name" : "dim_airlines"
+ },
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "dim_airport",
+  "publish_table_name" : "dim_airport"
+ },
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "dim_cancellation",
+  "publish_table_name" : "dim_cancellation"
+ },
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "dim_plane",
+  "publish_table_name" : "dim_plane"
+ },
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "dim_unique_carriers",
+  "publish_table_name" : "dim_unique_carriers"
+ },
+ {
+  "database_name" : "datamart_geekcoders",
+  "source_table_name" : "Reporting_flight",
+  "publish_table_name" : "Reporting_flight"
+ }
+]
