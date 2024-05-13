@@ -1,0 +1,31 @@
+[
+  {
+	"File_name_source": "AIRPORT.csv",
+	"container_source": "airportsource",
+	"directory_source": "",
+	"File_Name_Sink": "Airport.csv",
+	"container_sink": "raw"
+  },
+ {
+	"File_name_source": "PLANE.csv",
+	"container_source": "planesource",
+	"directory_source": "",
+	"File_Name_Sink": "PLANE.csv",
+	"container_sink": "raw"
+  },
+ {
+	"File_name_source": "AIRPORT_duplicate.csv",
+	"container_source": "airportsource",
+	"directory_source": "",
+	"File_Name_Sink": "AIRPORT_duplicate.csv",
+	"container_sink": "raw"
+  },
+ {
+	"File_name_source": "flights.zip",
+	"container_source": "flightsource",
+	"directory_source": "",
+	"directory_sink": "flight",
+	"File_Name_Sink": "",
+	"container_sink": "raw"
+  }
+]
